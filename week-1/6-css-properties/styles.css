@@ -1,1 +1,27 @@
 /* Add your CSS code below */
+a {
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.message__time {
+  font-size: 0.9rem;
+}
+
+.message--unread {
+  border-right-color: blue;
+  border-right-style: solid;
+}
+
+.YesterdayMessage {
+  opacity: 0.5;
+}
+
+.old-massage {
+  opacity: 0.3;
+}
+
+.massage {
+  line-height: 1.6;
+}
